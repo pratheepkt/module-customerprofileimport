@@ -1,6 +1,9 @@
 # module-customerprofileimport
 
-Magento version support 2.X
+# THIS MODULE RELEASED 1ST VERSION
+# CODE REFACTORING IS PENGING
+
+Magento version support 2.X 
 
 Install extension (Sample customer account creations)
 
